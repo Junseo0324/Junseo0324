@@ -1,4 +1,9 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=1E1E1E&height=250&section=header&text=Junseo's%20Github&fontColor=C9D1D9&fontSize=60&fontAlignY=30&desc=Android%20Developer&descSize=25&descAlignY=50&descAlign=60&descColor=8CA0B3)
+
+<h3>GitHub Stats</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Junseo0324&count_private=true&show_icons=true&bg_color=1E1E1E&title_color=C9D1D9&text_color=ADB6C4&icon_color=8CA0B3&border_color=30363D&hide_border=false" alt="GitHub Stats">
+</a> 
 
 <!--
 **Junseo0324/Junseo0324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
